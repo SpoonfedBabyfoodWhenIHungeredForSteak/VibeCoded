@@ -1,0 +1,4 @@
+Target,Port,Protocol,State,Service,Product,Version,Extra Info,Scan Time
+192.168.1.254,53,tcp,open,domain,dnsmasq,2.89,,2025-03-24 12:34:02
+192.168.1.254,80,tcp,open,http,lighttpd,1.4.69,,2025-03-24 12:34:02
+192.168.1.254,111,tcp,filtered,rpcbind,,,,2025-03-24 12:34:02
